@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/concactination/bin/Debug/net8.0/concactination
+/home/kolyamba/Documents/coding/csharp/concactination/bin/Debug/net8.0/concactination.deps.json
+/home/kolyamba/Documents/coding/csharp/concactination/bin/Debug/net8.0/concactination.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/concactination/bin/Debug/net8.0/concactination.dll
+/home/kolyamba/Documents/coding/csharp/concactination/bin/Debug/net8.0/concactination.pdb
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.dll
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/refint/concactination.dll
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.pdb
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/concactination.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/concactination/obj/Debug/net8.0/ref/concactination.dll

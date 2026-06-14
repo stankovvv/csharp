@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/bin/Debug/net8.0/verbatiminterpolation
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/bin/Debug/net8.0/verbatiminterpolation.deps.json
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/bin/Debug/net8.0/verbatiminterpolation.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/bin/Debug/net8.0/verbatiminterpolation.dll
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/bin/Debug/net8.0/verbatiminterpolation.pdb
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.dll
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/refint/verbatiminterpolation.dll
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.pdb
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/verbatiminterpolation.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/Debug/net8.0/ref/verbatiminterpolation.dll

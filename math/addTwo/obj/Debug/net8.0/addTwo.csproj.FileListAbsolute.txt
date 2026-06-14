@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/addTwo/bin/Debug/net8.0/addTwo
+/home/kolyamba/Documents/coding/csharp/math/addTwo/bin/Debug/net8.0/addTwo.deps.json
+/home/kolyamba/Documents/coding/csharp/math/addTwo/bin/Debug/net8.0/addTwo.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/addTwo/bin/Debug/net8.0/addTwo.dll
+/home/kolyamba/Documents/coding/csharp/math/addTwo/bin/Debug/net8.0/addTwo.pdb
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.dll
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/refint/addTwo.dll
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.pdb
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/addTwo.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/addTwo/obj/Debug/net8.0/ref/addTwo.dll

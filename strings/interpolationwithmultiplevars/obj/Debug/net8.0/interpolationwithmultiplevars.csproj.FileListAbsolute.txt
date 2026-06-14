@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/bin/Debug/net8.0/interpolationwithmultiplevars
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/bin/Debug/net8.0/interpolationwithmultiplevars.deps.json
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/bin/Debug/net8.0/interpolationwithmultiplevars.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/bin/Debug/net8.0/interpolationwithmultiplevars.dll
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/bin/Debug/net8.0/interpolationwithmultiplevars.pdb
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.dll
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/refint/interpolationwithmultiplevars.dll
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.pdb
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/interpolationwithmultiplevars.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/Debug/net8.0/ref/interpolationwithmultiplevars.dll

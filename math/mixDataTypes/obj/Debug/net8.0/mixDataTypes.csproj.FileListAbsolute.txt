@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/bin/Debug/net8.0/mixDataTypes
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/bin/Debug/net8.0/mixDataTypes.deps.json
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/bin/Debug/net8.0/mixDataTypes.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/bin/Debug/net8.0/mixDataTypes.dll
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/bin/Debug/net8.0/mixDataTypes.pdb
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.dll
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/refint/mixDataTypes.dll
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.pdb
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/mixDataTypes.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/obj/Debug/net8.0/ref/mixDataTypes.dll

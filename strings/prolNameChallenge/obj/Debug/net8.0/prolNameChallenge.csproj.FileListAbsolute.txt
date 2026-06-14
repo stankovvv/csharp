@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/bin/Debug/net8.0/prolNameChallenge
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/bin/Debug/net8.0/prolNameChallenge.deps.json
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/bin/Debug/net8.0/prolNameChallenge.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/bin/Debug/net8.0/prolNameChallenge.dll
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/bin/Debug/net8.0/prolNameChallenge.pdb
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.dll
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/refint/prolNameChallenge.dll
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.pdb
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/prolNameChallenge.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/Debug/net8.0/ref/prolNameChallenge.dll
