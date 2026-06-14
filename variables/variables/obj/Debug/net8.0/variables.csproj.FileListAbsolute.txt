@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/variables/variables/bin/Debug/net8.0/variables
+/home/kolyamba/Documents/coding/csharp/variables/variables/bin/Debug/net8.0/variables.deps.json
+/home/kolyamba/Documents/coding/csharp/variables/variables/bin/Debug/net8.0/variables.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/variables/variables/bin/Debug/net8.0/variables.dll
+/home/kolyamba/Documents/coding/csharp/variables/variables/bin/Debug/net8.0/variables.pdb
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.dll
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/refint/variables.dll
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.pdb
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/variables.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/variables/variables/obj/Debug/net8.0/ref/variables.dll

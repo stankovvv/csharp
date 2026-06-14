@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/StringFormatting/bin/Debug/net8.0/StringFormatting
+/home/kolyamba/Documents/coding/csharp/StringFormatting/bin/Debug/net8.0/StringFormatting.deps.json
+/home/kolyamba/Documents/coding/csharp/StringFormatting/bin/Debug/net8.0/StringFormatting.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/StringFormatting/bin/Debug/net8.0/StringFormatting.dll
+/home/kolyamba/Documents/coding/csharp/StringFormatting/bin/Debug/net8.0/StringFormatting.pdb
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.dll
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/refint/StringFormatting.dll
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.pdb
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/StringFormatting.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/Debug/net8.0/ref/StringFormatting.dll

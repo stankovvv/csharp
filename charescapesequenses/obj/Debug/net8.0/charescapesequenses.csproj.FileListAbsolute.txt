@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/bin/Debug/net8.0/charescapesequenses
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/bin/Debug/net8.0/charescapesequenses.deps.json
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/bin/Debug/net8.0/charescapesequenses.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/bin/Debug/net8.0/charescapesequenses.dll
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/bin/Debug/net8.0/charescapesequenses.pdb
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.dll
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/refint/charescapesequenses.dll
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.pdb
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/charescapesequenses.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/Debug/net8.0/ref/charescapesequenses.dll

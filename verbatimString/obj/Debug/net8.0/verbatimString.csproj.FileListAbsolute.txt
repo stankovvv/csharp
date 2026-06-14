@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/verbatimString/bin/Debug/net8.0/verbatimString
+/home/kolyamba/Documents/coding/csharp/verbatimString/bin/Debug/net8.0/verbatimString.deps.json
+/home/kolyamba/Documents/coding/csharp/verbatimString/bin/Debug/net8.0/verbatimString.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/verbatimString/bin/Debug/net8.0/verbatimString.dll
+/home/kolyamba/Documents/coding/csharp/verbatimString/bin/Debug/net8.0/verbatimString.pdb
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.dll
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/refint/verbatimString.dll
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.pdb
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/verbatimString.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/verbatimString/obj/Debug/net8.0/ref/verbatimString.dll
