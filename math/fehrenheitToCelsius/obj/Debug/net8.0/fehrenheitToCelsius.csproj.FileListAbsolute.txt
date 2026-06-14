@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/bin/Debug/net8.0/fehrenheitToCelsius
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/bin/Debug/net8.0/fehrenheitToCelsius.deps.json
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/bin/Debug/net8.0/fehrenheitToCelsius.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/bin/Debug/net8.0/fehrenheitToCelsius.dll
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/bin/Debug/net8.0/fehrenheitToCelsius.pdb
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.dll
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/refint/fehrenheitToCelsius.dll
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.pdb
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/fehrenheitToCelsius.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/fehrenheitToCelsius/obj/Debug/net8.0/ref/fehrenheitToCelsius.dll

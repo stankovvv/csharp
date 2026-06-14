@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/bin/Debug/net8.0/operationOrders
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/bin/Debug/net8.0/operationOrders.deps.json
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/bin/Debug/net8.0/operationOrders.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/bin/Debug/net8.0/operationOrders.dll
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/bin/Debug/net8.0/operationOrders.pdb
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.dll
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/refint/operationOrders.dll
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.pdb
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/operationOrders.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/operationOrders/obj/Debug/net8.0/ref/operationOrders.dll

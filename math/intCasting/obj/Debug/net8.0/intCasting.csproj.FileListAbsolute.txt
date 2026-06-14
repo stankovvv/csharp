@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/intCasting/bin/Debug/net8.0/intCasting
+/home/kolyamba/Documents/coding/csharp/math/intCasting/bin/Debug/net8.0/intCasting.deps.json
+/home/kolyamba/Documents/coding/csharp/math/intCasting/bin/Debug/net8.0/intCasting.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/intCasting/bin/Debug/net8.0/intCasting.dll
+/home/kolyamba/Documents/coding/csharp/math/intCasting/bin/Debug/net8.0/intCasting.pdb
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.dll
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/refint/intCasting.dll
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.pdb
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/intCasting.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/intCasting/obj/Debug/net8.0/ref/intCasting.dll

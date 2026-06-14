@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/bin/Debug/net8.0/positionOfOperators
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/bin/Debug/net8.0/positionOfOperators.deps.json
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/bin/Debug/net8.0/positionOfOperators.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/bin/Debug/net8.0/positionOfOperators.dll
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/bin/Debug/net8.0/positionOfOperators.pdb
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.dll
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/refint/positionOfOperators.dll
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.pdb
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/positionOfOperators.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/obj/Debug/net8.0/ref/positionOfOperators.dll

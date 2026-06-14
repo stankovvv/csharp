@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/bin/Debug/net8.0/plusMinus
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/bin/Debug/net8.0/plusMinus.deps.json
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/bin/Debug/net8.0/plusMinus.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/bin/Debug/net8.0/plusMinus.dll
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/bin/Debug/net8.0/plusMinus.pdb
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.dll
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/refint/plusMinus.dll
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.pdb
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/plusMinus.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/plusMinus/obj/Debug/net8.0/ref/plusMinus.dll

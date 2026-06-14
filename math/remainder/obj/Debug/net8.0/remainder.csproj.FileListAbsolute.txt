@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/math/remainder/bin/Debug/net8.0/remainder
+/home/kolyamba/Documents/coding/csharp/math/remainder/bin/Debug/net8.0/remainder.deps.json
+/home/kolyamba/Documents/coding/csharp/math/remainder/bin/Debug/net8.0/remainder.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/math/remainder/bin/Debug/net8.0/remainder.dll
+/home/kolyamba/Documents/coding/csharp/math/remainder/bin/Debug/net8.0/remainder.pdb
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.dll
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/refint/remainder.dll
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.pdb
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/remainder.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/math/remainder/obj/Debug/net8.0/ref/remainder.dll
