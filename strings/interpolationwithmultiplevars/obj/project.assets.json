@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
+      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
       "projectName": "interpolationwithmultiplevars",
-      "projectPath": "/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
+      "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
       "packagesPath": "/home/kolyamba/.nuget/packages/",
-      "outputPath": "/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/obj/",
+      "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/interpolationwithmultiplevars/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kolyamba/.nuget/NuGet/NuGet.Config"

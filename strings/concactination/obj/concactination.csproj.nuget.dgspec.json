@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/concactination/concactination.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/concactination/concactination.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/concactination/concactination.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj",
         "projectName": "concactination",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/concactination/concactination.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/concactination/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/concactination/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

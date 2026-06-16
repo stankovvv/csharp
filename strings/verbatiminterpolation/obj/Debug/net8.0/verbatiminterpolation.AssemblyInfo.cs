@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("verbatiminterpolation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7afa515b32066cda6f41df728764585599270a9f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d45823e1f3106eaba1fde85923d9a151b72f3f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("verbatiminterpolation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("verbatiminterpolation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

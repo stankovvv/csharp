@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5c1PVASo0T4/dIQVeePKwrT3jd8RlG608ame+xK689sCrzyilAdps0Fmtjw3WI4S5nmIHM74zEX7wAf6CRKZVQ==",
+  "dgSpecHash": "fE2nIfMtPCf+7wvIkDL7iBBjpnDZTzQ+g8Gm2cQBwq7XdWNspac1HWYhUSEGInVwZLrnrX+SgYRa3ayltQsggQ==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/interpolationwithmultiplevars/interpolationwithmultiplevars.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

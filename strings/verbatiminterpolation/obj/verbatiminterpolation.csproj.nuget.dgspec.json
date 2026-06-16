@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/verbatiminterpolation.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/verbatiminterpolation.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/verbatiminterpolation.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj",
         "projectName": "verbatiminterpolation",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/verbatiminterpolation.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/verbatiminterpolation/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

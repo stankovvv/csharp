@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVwltx01uiNFY4zIN1rZFpeJost0OL07JZFnu0Ow1ven7HtdYpgGGDw6eoiaipbwU/L5Bgo6Oy09k1lIHm553g==",
+  "dgSpecHash": "GVgoMq6V6hi06dqFmLjAPI894LC0sOwb0bAiqw2Bm6lcL5Oh/LRfKDqakJ07VIY15c/6J698uZ4v9FLzFh5CAw==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

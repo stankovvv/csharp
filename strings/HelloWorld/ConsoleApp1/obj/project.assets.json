@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/home/kolyamba/Documents/coding/csharp/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/home/kolyamba/.nuget/packages/",
-      "outputPath": "/home/kolyamba/Documents/coding/csharp/HelloWorld/ConsoleApp1/obj/",
+      "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/HelloWorld/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kolyamba/.nuget/NuGet/NuGet.Config"

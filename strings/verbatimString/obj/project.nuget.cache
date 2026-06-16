@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Co6ia3yPMAy0/7DlVSnxTpYihpM+jygBwPR/b4plR4HInJcFADGfxiT9HIylvjdl+pud3OkOwmMM9cftV5cSUw==",
+  "dgSpecHash": "6lijaXlVQdvMAMc7B5Zsctk3ezePRIiniFnp3HHjwk9XstL5gxwAUsTVuT6VR2+NYPhhUx5MlP1Nlb4QIcnZsA==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/verbatimString/verbatimString.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/verbatimString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

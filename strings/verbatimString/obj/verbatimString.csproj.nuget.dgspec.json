@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/verbatimString/verbatimString.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/verbatimString.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/verbatimString/verbatimString.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/verbatimString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/verbatimString/verbatimString.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/verbatimString.csproj",
         "projectName": "verbatimString",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/verbatimString/verbatimString.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/verbatimString.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/verbatimString/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/verbatimString/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

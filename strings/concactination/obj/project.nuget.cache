@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X0BYCgyYQLdWPm2nm9kwo0quukmgvg6FYp34riTOfr+BLmI4r1hhwjktzhNhJ7n9QvkZkzprKxvaQ+mUIrFeSA==",
+  "dgSpecHash": "ikO2SO+hYdxBlKxr05CPQgoW0vyfDTvGVRQZ5v0EeTU5B8wCUFKPOQJwutMy7ZPKx7wbI8wOM68FBzvUOELRIQ==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/concactination/concactination.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

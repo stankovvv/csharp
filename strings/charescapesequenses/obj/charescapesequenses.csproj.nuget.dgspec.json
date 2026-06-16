@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/charescapesequenses/charescapesequenses.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/charescapesequenses/charescapesequenses.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/charescapesequenses/charescapesequenses.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/charescapesequenses/charescapesequenses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/charescapesequenses/charescapesequenses.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/charescapesequenses/charescapesequenses.csproj",
         "projectName": "charescapesequenses",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/charescapesequenses/charescapesequenses.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/charescapesequenses/charescapesequenses.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/charescapesequenses/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/charescapesequenses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

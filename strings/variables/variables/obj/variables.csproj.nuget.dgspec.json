@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/variables/variables/variables.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/variables/variables/variables.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/variables/variables/variables.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/variables/variables/variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/variables/variables/variables.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/variables/variables/variables.csproj",
         "projectName": "variables",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/variables/variables/variables.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/variables/variables/variables.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/variables/variables/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/variables/variables/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

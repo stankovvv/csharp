@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kolyamba/Documents/coding/csharp/prolNameChallenge/prolNameChallenge.csproj": {}
+    "/home/kolyamba/Documents/coding/csharp/strings/prolNameChallenge/prolNameChallenge.csproj": {}
   },
   "projects": {
-    "/home/kolyamba/Documents/coding/csharp/prolNameChallenge/prolNameChallenge.csproj": {
+    "/home/kolyamba/Documents/coding/csharp/strings/prolNameChallenge/prolNameChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/prolNameChallenge/prolNameChallenge.csproj",
+        "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/prolNameChallenge/prolNameChallenge.csproj",
         "projectName": "prolNameChallenge",
-        "projectPath": "/home/kolyamba/Documents/coding/csharp/prolNameChallenge/prolNameChallenge.csproj",
+        "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/prolNameChallenge/prolNameChallenge.csproj",
         "packagesPath": "/home/kolyamba/.nuget/packages/",
-        "outputPath": "/home/kolyamba/Documents/coding/csharp/prolNameChallenge/obj/",
+        "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/prolNameChallenge/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kolyamba/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gSm3ZcgPZJhzUo5jBi+yqbbl3k51xvD4cjOme9+PsVA9rLlej2HznKt8nC5kCWppD762/e2Zlo1miS0FE+Buow==",
+  "dgSpecHash": "hii3/ZMy1rLDihjP7wUe8+0aS/EJbzfm+EPJ/t3jC1hpF8LcAmVnO1S7VSBqBz0J4unNgY8ywjTQaOJ4WG3I4A==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/StringFormatting/StringFormatting.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/StringFormatting/StringFormatting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

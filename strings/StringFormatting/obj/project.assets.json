@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/StringFormatting/StringFormatting.csproj",
+      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/strings/StringFormatting/StringFormatting.csproj",
       "projectName": "StringFormatting",
-      "projectPath": "/home/kolyamba/Documents/coding/csharp/StringFormatting/StringFormatting.csproj",
+      "projectPath": "/home/kolyamba/Documents/coding/csharp/strings/StringFormatting/StringFormatting.csproj",
       "packagesPath": "/home/kolyamba/.nuget/packages/",
-      "outputPath": "/home/kolyamba/Documents/coding/csharp/StringFormatting/obj/",
+      "outputPath": "/home/kolyamba/Documents/coding/csharp/strings/StringFormatting/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kolyamba/.nuget/NuGet/NuGet.Config"

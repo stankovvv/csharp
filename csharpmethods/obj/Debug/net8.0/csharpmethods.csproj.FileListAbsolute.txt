@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/csharpmethods/bin/Debug/net8.0/csharpmethods
+/home/kolyamba/Documents/coding/csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.deps.json
+/home/kolyamba/Documents/coding/csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.dll
+/home/kolyamba/Documents/coding/csharp/csharpmethods/bin/Debug/net8.0/csharpmethods.pdb
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.dll
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/refint/csharpmethods.dll
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.pdb
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/csharpmethods.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/csharpmethods/obj/Debug/net8.0/ref/csharpmethods.dll
