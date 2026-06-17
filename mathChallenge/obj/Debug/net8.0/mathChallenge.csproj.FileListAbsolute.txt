@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/mathChallenge/bin/Debug/net8.0/mathChallenge
+/home/kolyamba/Documents/coding/csharp/mathChallenge/bin/Debug/net8.0/mathChallenge.deps.json
+/home/kolyamba/Documents/coding/csharp/mathChallenge/bin/Debug/net8.0/mathChallenge.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/mathChallenge/bin/Debug/net8.0/mathChallenge.dll
+/home/kolyamba/Documents/coding/csharp/mathChallenge/bin/Debug/net8.0/mathChallenge.pdb
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.dll
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/refint/mathChallenge.dll
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.pdb
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/mathChallenge.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/mathChallenge/obj/Debug/net8.0/ref/mathChallenge.dll
