@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fC1HTtPO7zwqSdnYuCXTHux7eBgezPM2RTqgZUrYq+J0xowb+OVpLA/WvD4ead4qt+fbc1jPd5tsUBmJXx3Ohg==",
+  "dgSpecHash": "KSk7bcnTITdnAvZYCb+bwOuz/3feGX0+ttCNIs7OceZmuJ7HATj3TWigzy+1QiIskDy4k8jmdRdN3qHHXmjfGg==",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/ifelse/ifelse.csproj",
+  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/if/ifelse.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

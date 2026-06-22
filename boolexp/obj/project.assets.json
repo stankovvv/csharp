@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/if/boolexp/boolexp.csproj",
+      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/boolexp/boolexp.csproj",
       "projectName": "boolexp",
-      "projectPath": "/home/kolyamba/Documents/coding/csharp/if/boolexp/boolexp.csproj",
+      "projectPath": "/home/kolyamba/Documents/coding/csharp/boolexp/boolexp.csproj",
       "packagesPath": "/home/kolyamba/.nuget/packages/",
-      "outputPath": "/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/",
+      "outputPath": "/home/kolyamba/Documents/coding/csharp/boolexp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kolyamba/.nuget/NuGet/NuGet.Config"

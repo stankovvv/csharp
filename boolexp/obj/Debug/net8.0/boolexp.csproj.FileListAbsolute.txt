@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/if/boolexp/bin/Debug/net8.0/boolexp
+/home/kolyamba/Documents/coding/csharp/if/boolexp/bin/Debug/net8.0/boolexp.deps.json
+/home/kolyamba/Documents/coding/csharp/if/boolexp/bin/Debug/net8.0/boolexp.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/if/boolexp/bin/Debug/net8.0/boolexp.dll
+/home/kolyamba/Documents/coding/csharp/if/boolexp/bin/Debug/net8.0/boolexp.pdb
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.dll
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/refint/boolexp.dll
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.pdb
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/boolexp.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/if/boolexp/obj/Debug/net8.0/ref/boolexp.dll

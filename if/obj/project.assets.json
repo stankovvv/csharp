@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/ifelse/ifelse.csproj",
+      "projectUniqueName": "/home/kolyamba/Documents/coding/csharp/if/ifelse.csproj",
       "projectName": "ifelse",
-      "projectPath": "/home/kolyamba/Documents/coding/csharp/ifelse/ifelse.csproj",
+      "projectPath": "/home/kolyamba/Documents/coding/csharp/if/ifelse.csproj",
       "packagesPath": "/home/kolyamba/.nuget/packages/",
-      "outputPath": "/home/kolyamba/Documents/coding/csharp/ifelse/obj/",
+      "outputPath": "/home/kolyamba/Documents/coding/csharp/if/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kolyamba/.nuget/NuGet/NuGet.Config"
