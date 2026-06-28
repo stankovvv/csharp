@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("concactination")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+280dd7dbdb4d24f2a7178256611e20220b113ced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b54f73b96d1b5ab366f44461c49bd6531791c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("concactination")]
 [assembly: System.Reflection.AssemblyTitleAttribute("concactination")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
