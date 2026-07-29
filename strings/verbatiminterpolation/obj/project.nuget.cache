@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0Al6WfbkzSLFt026wDJItGAdUA0k37OxcHd+dIOLjomPfQodrIv7QAPcg7KvMQhAyeZgVQiVItoV+ZnhxzX5vQ==",
+  "dgSpecHash": "VaTIVEBGs8sAUFn9ZV4mx5hjEd10+4mZPEwE3JbHf2rpilzdAJy12aPQHOm5r9/SERxVuD1mifEXkYZ8QCjsdw==",
   "success": true,
   "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj",
   "expectedPackageFiles": [],
