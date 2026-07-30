@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("subrenewal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+262d3f6722a1c5f421b1df715d831a8095fba4d4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef104a0b27d3c4cb5c21504ee0e1fdb77cba4fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("subrenewal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("subrenewal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

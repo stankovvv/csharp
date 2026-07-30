@@ -1,0 +1,15 @@
+/home/kolyamba/Documents/coding/csharp/subrenewal/bin/Debug/net8.0/subrenewal
+/home/kolyamba/Documents/coding/csharp/subrenewal/bin/Debug/net8.0/subrenewal.deps.json
+/home/kolyamba/Documents/coding/csharp/subrenewal/bin/Debug/net8.0/subrenewal.runtimeconfig.json
+/home/kolyamba/Documents/coding/csharp/subrenewal/bin/Debug/net8.0/subrenewal.dll
+/home/kolyamba/Documents/coding/csharp/subrenewal/bin/Debug/net8.0/subrenewal.pdb
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.sourcelink.json
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.dll
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/refint/subrenewal.dll
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.pdb
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/subrenewal.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/csharp/subrenewal/obj/Debug/net8.0/ref/subrenewal.dll
