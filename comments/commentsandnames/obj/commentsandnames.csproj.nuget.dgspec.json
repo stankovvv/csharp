@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj",
         "projectName": "commentsandnames",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\commentsandnames.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\comments\\commentsandnames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
