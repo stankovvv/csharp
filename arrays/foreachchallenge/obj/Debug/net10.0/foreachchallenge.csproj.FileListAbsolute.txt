@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\bin\Debug\net10.0\foreachchallenge.exe
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\bin\Debug\net10.0\foreachchallenge.deps.json
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\bin\Debug\net10.0\foreachchallenge.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\bin\Debug\net10.0\foreachchallenge.dll
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\bin\Debug\net10.0\foreachchallenge.pdb
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.dll
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\refint\foreachchallenge.dll
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.pdb
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\foreachchallenge.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\arrays\foreachchallenge\obj\Debug\net10.0\ref\foreachchallenge.dll

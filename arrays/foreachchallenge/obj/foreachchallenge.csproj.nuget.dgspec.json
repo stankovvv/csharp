@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj",
         "projectName": "foreachchallenge",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\foreachchallenge.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\arrays\\foreachchallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
