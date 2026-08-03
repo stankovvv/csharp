@@ -9,7 +9,7 @@ string[] orderIDs = new string[5];
 
 for (int i = 0; i < orderIDs.Length; i++)
 {
-    
+     
     int prefixValue = random.Next(65, 70);
     
     string prefix = Convert.ToChar(prefixValue).ToString();

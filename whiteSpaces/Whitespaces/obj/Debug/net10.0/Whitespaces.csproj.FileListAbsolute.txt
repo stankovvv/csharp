@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\bin\Debug\net10.0\Whitespaces.exe
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\bin\Debug\net10.0\Whitespaces.deps.json
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\bin\Debug\net10.0\Whitespaces.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\bin\Debug\net10.0\Whitespaces.dll
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\bin\Debug\net10.0\Whitespaces.pdb
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.dll
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\refint\Whitespaces.dll
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.pdb
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\Whitespaces.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\whiteSpaces\Whitespaces\obj\Debug\net10.0\ref\Whitespaces.dll
