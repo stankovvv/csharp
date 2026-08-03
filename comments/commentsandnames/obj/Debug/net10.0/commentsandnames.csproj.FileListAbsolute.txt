@@ -1,0 +1,5 @@
+c:\Users\mykol\Documents\coding\csharp\comments\commentsandnames\obj\Debug\net10.0\commentsandnames.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\comments\commentsandnames\obj\Debug\net10.0\commentsandnames.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\comments\commentsandnames\obj\Debug\net10.0\commentsandnames.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\comments\commentsandnames\obj\Debug\net10.0\commentsandnames.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\comments\commentsandnames\obj\Debug\net10.0\commentsandnames.sourcelink.json
