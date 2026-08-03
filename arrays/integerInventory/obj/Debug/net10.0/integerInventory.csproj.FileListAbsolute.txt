@@ -1,0 +1,15 @@
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\bin\Debug\net10.0\integerInventory.exe
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\bin\Debug\net10.0\integerInventory.deps.json
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\bin\Debug\net10.0\integerInventory.runtimeconfig.json
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\bin\Debug\net10.0\integerInventory.dll
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\bin\Debug\net10.0\integerInventory.pdb
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.AssemblyInfoInputs.cache
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.AssemblyInfo.cs
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.csproj.CoreCompileInputs.cache
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.sourcelink.json
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.dll
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\refint\integerInventory.dll
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.pdb
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\integerInventory.genruntimeconfig.cache
+C:\Users\mykol\Documents\coding\csharp\arrays\integerInventory\obj\Debug\net10.0\ref\integerInventory.dll
