@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FXKdgcHMh0TF7vkNZZmrcb8Kf2NafalAfASJfQ8i1HNKUaV0imRR+Os0bh1v5Lpui93dIC8K/TowIklZQkZd9g==",
+  "dgSpecHash": "Stj47amtZzk=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/positionOfOperators/positionOfOperators.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\positionOfOperators\\positionOfOperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

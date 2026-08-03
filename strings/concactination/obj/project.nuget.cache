@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "ERjbK13FMy+K0CUvrBHipuiXvRCXChbEZy/LmzqVyA71Yu6D+9or+ZgwUk2Pm+eWv/28ZqpS35m1+CKzP8IbWA==",
+  "dgSpecHash": "cFA5RxFTiSM=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/concactination/concactination.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\strings\\concactination\\concactination.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

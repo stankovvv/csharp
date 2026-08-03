@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mathChallenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ef104a0b27d3c4cb5c21504ee0e1fdb77cba4fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aace4182aca60001c509f510d0f34f0c024bb334")]
 [assembly: System.Reflection.AssemblyProductAttribute("mathChallenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mathChallenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

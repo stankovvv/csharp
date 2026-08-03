@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zwKMcjLBmBFrIRdLb86N38nlYEC9lOgjtFwta7lVXYTM0H/WTITzsZav53H0tI51hDP+ytVjByyBf6ggCUaaCQ==",
+  "dgSpecHash": "/LnQDzKxERo=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/intCasting/intCasting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\intCasting\\intCasting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

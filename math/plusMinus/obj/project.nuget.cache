@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/Btkp3QdNVXieS7ooVa1Oztuukc5FNZ0pVp8HF5Y0xxrZ3sRKxMMHMcTZhjK7Gk8WFK4xg62qWShv5cKo78OGA==",
+  "dgSpecHash": "IJwoArCEI8k=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/plusMinus/plusMinus.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\plusMinus\\plusMinus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

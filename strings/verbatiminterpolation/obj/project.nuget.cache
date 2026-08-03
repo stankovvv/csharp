@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VaTIVEBGs8sAUFn9ZV4mx5hjEd10+4mZPEwE3JbHf2rpilzdAJy12aPQHOm5r9/SERxVuD1mifEXkYZ8QCjsdw==",
+  "dgSpecHash": "0Jeun9rMguQ=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/verbatiminterpolation/verbatiminterpolation.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\strings\\verbatiminterpolation\\verbatiminterpolation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

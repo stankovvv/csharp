@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "J5bp19NBu7b3MKtT7RMx7gTIju0pxnJ24AUvzf1c/1Zqs/Zhr3XRZ4o5Bja+6dBA/uKTRZVbgWkgR4x5oP0Zyw==",
+  "dgSpecHash": "/mNoBFY/A4Q=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/strings/HelloWorld/ConsoleApp1/ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\strings\\HelloWorld\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

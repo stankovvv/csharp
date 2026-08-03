@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "gSHPcuBU2q/HMGQ2RnMOLkPKhPDBwL9brvO7zUgdnX9H99QpskihyBQOotvbvCu2sQ3bafVS17QYFgf2xsNQdw==",
+  "dgSpecHash": "HL2ucDDwkWI=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/mixDataTypes/mixDataTypes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\mixDataTypes\\mixDataTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

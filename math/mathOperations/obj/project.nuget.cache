@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "n43nCDf6/j1fdyJnRHXGXL9udBnpiO+B5UQMDgWZswz00eZ5+4PdrPcX4taHZ4U0BRkGjtEV86rbJNI6oYKoww==",
+  "dgSpecHash": "HB2cnJyHsJ4=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/mathOperations/mathOperations.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\mathOperations\\mathOperations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

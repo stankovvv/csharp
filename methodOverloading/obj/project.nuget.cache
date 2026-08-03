@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EWZXwS8FEKLjH/aQVWJtZJ1NoXeTrNRkuS0O5+C+6n+YKZRX+0X5HyaRQebmy5nw5GP2qUhD1NwEOBJrPUZBJw==",
+  "dgSpecHash": "XGmRsaNaygU=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/methodOverloading/methodOverloading.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\methodOverloading\\methodOverloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "k8bgfGabtHAaap10SXM6HRM+3EcXbFK+36k7VLoufkE9ldqzrlpFfUB1w+XbvfJTjv4r1l0POWoW4WomuLOgRg==",
+  "dgSpecHash": "6mpUEEhN/Fs=",
   "success": true,
-  "projectFilePath": "/home/kolyamba/Documents/coding/csharp/math/remainder/remainder.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\math\\remainder\\remainder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\mykol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
