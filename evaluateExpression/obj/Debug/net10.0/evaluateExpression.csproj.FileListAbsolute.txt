@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\bin\Debug\net10.0\evaluateExpression.exe
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\bin\Debug\net10.0\evaluateExpression.deps.json
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\bin\Debug\net10.0\evaluateExpression.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\bin\Debug\net10.0\evaluateExpression.dll
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\bin\Debug\net10.0\evaluateExpression.pdb
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.dll
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\refint\evaluateExpression.dll
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.pdb
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\evaluateExpression.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\evaluateExpression\obj\Debug\net10.0\ref\evaluateExpression.dll

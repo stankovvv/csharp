@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Whitespaces")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32df085ddc045b7b77ac196619f8c8a949180812")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13bb67fe079f3d07d26fb0cfaf151d990173949d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Whitespaces")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Whitespaces")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

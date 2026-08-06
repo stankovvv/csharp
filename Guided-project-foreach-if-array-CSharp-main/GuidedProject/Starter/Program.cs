@@ -47,6 +47,7 @@ foreach (string name in studentNames)
         continue;
 
     int sumAssigmentScores = 0;
+    
     decimal currentStudentGrade = 0;
 
     int gradeAssigments = 0;
