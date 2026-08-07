@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj",
         "projectName": "evaluateExpression",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\evaluateExpression.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\evaluateExpression\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

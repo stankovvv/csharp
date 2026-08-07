@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\coinFlip\bin\Debug\net10.0\coinFlip.exe
+c:\Users\mykol\Documents\coding\csharp\coinFlip\bin\Debug\net10.0\coinFlip.deps.json
+c:\Users\mykol\Documents\coding\csharp\coinFlip\bin\Debug\net10.0\coinFlip.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\coinFlip\bin\Debug\net10.0\coinFlip.dll
+c:\Users\mykol\Documents\coding\csharp\coinFlip\bin\Debug\net10.0\coinFlip.pdb
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.dll
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\refint\coinFlip.dll
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.pdb
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\coinFlip.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\coinFlip\obj\Debug\net10.0\ref\coinFlip.dll

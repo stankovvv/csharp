@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("charescapesequenses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13bb67fe079f3d07d26fb0cfaf151d990173949d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c61333a66a914068f8b3959f4d4524349598dbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("charescapesequenses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("charescapesequenses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

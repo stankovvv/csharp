@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\businessRules\bin\Debug\net10.0\businessRules.exe
+c:\Users\mykol\Documents\coding\csharp\businessRules\bin\Debug\net10.0\businessRules.deps.json
+c:\Users\mykol\Documents\coding\csharp\businessRules\bin\Debug\net10.0\businessRules.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\businessRules\bin\Debug\net10.0\businessRules.dll
+c:\Users\mykol\Documents\coding\csharp\businessRules\bin\Debug\net10.0\businessRules.pdb
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.dll
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\refint\businessRules.dll
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.pdb
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\businessRules.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\businessRules\obj\Debug\net10.0\ref\businessRules.dll
