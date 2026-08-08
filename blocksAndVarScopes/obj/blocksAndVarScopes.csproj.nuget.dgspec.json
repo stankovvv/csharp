@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj": {}
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj": {
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj",
+        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj",
         "projectName": "blocksAndVarScopes",
-        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj",
+        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\blocksAndVarScopes.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\obj\\",
+        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\blocksAndVarScopes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
