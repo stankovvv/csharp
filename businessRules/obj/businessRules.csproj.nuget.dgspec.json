@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj",
         "projectName": "businessRules",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\businessRules.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\businessRules\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

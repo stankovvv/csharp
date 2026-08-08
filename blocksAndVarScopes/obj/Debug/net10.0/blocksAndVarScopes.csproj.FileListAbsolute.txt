@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\bin\Debug\net10.0\blocksAndVarScopes.exe
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\bin\Debug\net10.0\blocksAndVarScopes.deps.json
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\bin\Debug\net10.0\blocksAndVarScopes.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\bin\Debug\net10.0\blocksAndVarScopes.dll
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\bin\Debug\net10.0\blocksAndVarScopes.pdb
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.dll
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\refint\blocksAndVarScopes.dll
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.pdb
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\blocksAndVarScopes.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\blocksAndVarScopes\obj\Debug\net10.0\ref\blocksAndVarScopes.dll
