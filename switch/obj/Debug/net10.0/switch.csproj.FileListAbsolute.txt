@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\switch\bin\Debug\net10.0\switch.exe
+c:\Users\mykol\Documents\coding\csharp\switch\bin\Debug\net10.0\switch.deps.json
+c:\Users\mykol\Documents\coding\csharp\switch\bin\Debug\net10.0\switch.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\switch\bin\Debug\net10.0\switch.dll
+c:\Users\mykol\Documents\coding\csharp\switch\bin\Debug\net10.0\switch.pdb
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.dll
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\refint\switch.dll
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.pdb
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\switch.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\switch\obj\Debug\net10.0\ref\switch.dll

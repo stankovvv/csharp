@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj",
         "projectName": "varScopeProject",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\varScopeProject.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\varScopeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\bin\Debug\net10.0\SKUChallenge.exe
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\bin\Debug\net10.0\SKUChallenge.deps.json
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\bin\Debug\net10.0\SKUChallenge.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\bin\Debug\net10.0\SKUChallenge.dll
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\bin\Debug\net10.0\SKUChallenge.pdb
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.dll
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\refint\SKUChallenge.dll
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.pdb
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\SKUChallenge.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\SKUChallenge\obj\Debug\net10.0\ref\SKUChallenge.dll
