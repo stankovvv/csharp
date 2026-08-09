@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\bin\Debug\net10.0\fizzBuzz.exe
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\bin\Debug\net10.0\fizzBuzz.deps.json
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\bin\Debug\net10.0\fizzBuzz.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\bin\Debug\net10.0\fizzBuzz.dll
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\bin\Debug\net10.0\fizzBuzz.pdb
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.dll
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\refint\fizzBuzz.dll
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.pdb
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\fizzBuzz.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\fizzBuzz\obj\Debug\net10.0\ref\fizzBuzz.dll

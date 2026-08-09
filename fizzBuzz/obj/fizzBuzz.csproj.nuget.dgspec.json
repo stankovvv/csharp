@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj": {}
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\fizzBuzz\\fizzBuzz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj": {
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\fizzBuzz\\fizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj",
-        "projectName": "SKUChallenge",
-        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj",
+        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\fizzBuzz\\fizzBuzz.csproj",
+        "projectName": "fizzBuzz",
+        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\fizzBuzz\\fizzBuzz.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\obj\\",
+        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\fizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

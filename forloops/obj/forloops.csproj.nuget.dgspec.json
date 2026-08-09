@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj": {}
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\forloops\\forloops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj": {
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\forloops\\forloops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj",
-        "projectName": "SKUChallenge",
-        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\SKUChallenge.csproj",
+        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\forloops\\forloops.csproj",
+        "projectName": "forloops",
+        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\forloops\\forloops.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\SKUChallenge\\obj\\",
+        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\forloops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

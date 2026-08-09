@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\forloops\bin\Debug\net10.0\forloops.exe
+c:\Users\mykol\Documents\coding\csharp\forloops\bin\Debug\net10.0\forloops.deps.json
+c:\Users\mykol\Documents\coding\csharp\forloops\bin\Debug\net10.0\forloops.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\forloops\bin\Debug\net10.0\forloops.dll
+c:\Users\mykol\Documents\coding\csharp\forloops\bin\Debug\net10.0\forloops.pdb
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.dll
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\refint\forloops.dll
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.pdb
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\forloops.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\forloops\obj\Debug\net10.0\ref\forloops.dll
