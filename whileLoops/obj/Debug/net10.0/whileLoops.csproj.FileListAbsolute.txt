@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\whileLoops\bin\Debug\net10.0\whileLoops.exe
+c:\Users\mykol\Documents\coding\csharp\whileLoops\bin\Debug\net10.0\whileLoops.deps.json
+c:\Users\mykol\Documents\coding\csharp\whileLoops\bin\Debug\net10.0\whileLoops.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\whileLoops\bin\Debug\net10.0\whileLoops.dll
+c:\Users\mykol\Documents\coding\csharp\whileLoops\bin\Debug\net10.0\whileLoops.pdb
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.dll
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\refint\whileLoops.dll
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.pdb
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\whileLoops.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\whileLoops\obj\Debug\net10.0\ref\whileLoops.dll
