@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\bin\Debug\net10.0\varScopeProject.exe
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\bin\Debug\net10.0\varScopeProject.deps.json
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\bin\Debug\net10.0\varScopeProject.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\bin\Debug\net10.0\varScopeProject.dll
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\bin\Debug\net10.0\varScopeProject.pdb
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.dll
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\refint\varScopeProject.dll
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.pdb
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\varScopeProject.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\varScopeProject\obj\Debug\net10.0\ref\varScopeProject.dll
