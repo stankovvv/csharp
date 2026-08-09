@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\bin\Debug\net10.0\herosAndMonsters.exe
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\bin\Debug\net10.0\herosAndMonsters.deps.json
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\bin\Debug\net10.0\herosAndMonsters.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\bin\Debug\net10.0\herosAndMonsters.dll
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\bin\Debug\net10.0\herosAndMonsters.pdb
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.dll
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\refint\herosAndMonsters.dll
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.pdb
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\herosAndMonsters.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\herosAndMonsters\obj\Debug\net10.0\ref\herosAndMonsters.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj",
         "projectName": "whileLoops",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\whileLoops.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\whileLoops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
