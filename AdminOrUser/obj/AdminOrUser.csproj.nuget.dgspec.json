@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\projectValidInt\\projectValidInt.csproj": {}
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\AdminOrUser\\AdminOrUser.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\projectValidInt\\projectValidInt.csproj": {
+    "c:\\Users\\mykol\\Documents\\coding\\csharp\\AdminOrUser\\AdminOrUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\projectValidInt\\projectValidInt.csproj",
-        "projectName": "projectValidInt",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\projectValidInt\\projectValidInt.csproj",
+        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\AdminOrUser\\AdminOrUser.csproj",
+        "projectName": "AdminOrUser",
+        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\AdminOrUser\\AdminOrUser.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\projectValidInt\\obj\\",
+        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\AdminOrUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
