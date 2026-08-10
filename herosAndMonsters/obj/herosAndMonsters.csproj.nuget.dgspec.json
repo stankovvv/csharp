@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj",
         "projectName": "herosAndMonsters",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\herosAndMonsters.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\herosAndMonsters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"

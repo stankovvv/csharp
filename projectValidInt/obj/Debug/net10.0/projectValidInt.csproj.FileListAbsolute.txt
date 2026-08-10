@@ -1,0 +1,15 @@
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\bin\Debug\net10.0\projectValidInt.exe
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\bin\Debug\net10.0\projectValidInt.deps.json
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\bin\Debug\net10.0\projectValidInt.runtimeconfig.json
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\bin\Debug\net10.0\projectValidInt.dll
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\bin\Debug\net10.0\projectValidInt.pdb
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.AssemblyInfoInputs.cache
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.AssemblyInfo.cs
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.csproj.CoreCompileInputs.cache
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.sourcelink.json
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.dll
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\refint\projectValidInt.dll
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.pdb
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\projectValidInt.genruntimeconfig.cache
+C:\Users\mykol\Documents\coding\csharp\projectValidInt\obj\Debug\net10.0\ref\projectValidInt.dll
