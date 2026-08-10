@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj": {}
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj": {
+    "C:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj",
+        "projectUniqueName": "C:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj",
         "projectName": "mySentense",
-        "projectPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj",
+        "projectPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\mySentense.csproj",
         "packagesPath": "C:\\Users\\mykol\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\obj\\",
+        "outputPath": "C:\\Users\\mykol\\Documents\\coding\\csharp\\mySentense\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mykol\\AppData\\Roaming\\NuGet\\NuGet.Config"
