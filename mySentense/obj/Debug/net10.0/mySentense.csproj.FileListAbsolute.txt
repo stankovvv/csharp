@@ -1,0 +1,15 @@
+c:\Users\mykol\Documents\coding\csharp\mySentense\bin\Debug\net10.0\mySentense.exe
+c:\Users\mykol\Documents\coding\csharp\mySentense\bin\Debug\net10.0\mySentense.deps.json
+c:\Users\mykol\Documents\coding\csharp\mySentense\bin\Debug\net10.0\mySentense.runtimeconfig.json
+c:\Users\mykol\Documents\coding\csharp\mySentense\bin\Debug\net10.0\mySentense.dll
+c:\Users\mykol\Documents\coding\csharp\mySentense\bin\Debug\net10.0\mySentense.pdb
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.AssemblyInfoInputs.cache
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.AssemblyInfo.cs
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.csproj.CoreCompileInputs.cache
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.sourcelink.json
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.dll
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\refint\mySentense.dll
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.pdb
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\mySentense.genruntimeconfig.cache
+c:\Users\mykol\Documents\coding\csharp\mySentense\obj\Debug\net10.0\ref\mySentense.dll
